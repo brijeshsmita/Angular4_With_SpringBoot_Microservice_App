@@ -1,0 +1,15 @@
+﻿spring:
+    application.name: discovery-service
+server:
+    port: ${port:8081}
+    error.whitelabel.enabled: false
+
+# EUREKA
+eureka:
+  server:
+    enableSelfPreservation: false
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://localhost:8081/eureka/

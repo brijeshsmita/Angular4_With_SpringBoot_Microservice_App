@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 10 17:09:02 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0160-e0d4-fb6b-000012095808 
+on database directory memory:C:\Project\AltenProgrammingTestFromGit\VehicleServiceRepo-master\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@6b884d57 
+Loaded from jar:file:/C:/Project/AltenProgrammingTestFromGit/VehicleServiceRepo-master/target/VehicleService-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=C:\Project\AltenProgrammingTestFromGit\VehicleServiceRepo-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
